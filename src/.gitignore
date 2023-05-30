@@ -23,7 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-components
 ExpandableTable.tsx
 ExpandableText.tsx
 Form.tsx
